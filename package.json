@@ -1,0 +1,21 @@
+{
+  "name": "winkcam",
+  "version": "0.0.1",
+  "description": "An instagram bot that augments user photos using facial detection",
+  "main": "winkcam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.1",
+    "express": "^4.13.3",
+    "images": "^2.1.10",
+    "instagram-node": "^0.5.8",
+    "mongodb": "^2.1.3",
+    "node-horseman": "^2.8.2",
+    "pkgconfig": "^3.0.0",
+    "project-oxford": "^1.1.0"
+  }
+}
