@@ -13,7 +13,7 @@ Downloads a random Instagram photo and uses facial recognition to automatically 
 
 **Technologies Used:**  
 1. Microsoft Project Oxford for Facial Recognition - https://www.npmjs.com/package/project-oxford  
-2. Node-canvas - https://github.com/Automattic/node-canvas
+2. Node-canvas - https://github.com/Automattic/node-canvas  
 2. Instagram-node - https://www.npmjs.com/package/instagram-node  
 3. MongoDB if you want to save the records - https://www.mongodb.org/  
 4. Node.js - https://nodejs.org/  
