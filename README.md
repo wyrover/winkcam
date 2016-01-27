@@ -1,5 +1,5 @@
 # Winkcam
-**Just a little side project:**  
+**A little side project:**  
 Downloads a random Instagram photo and uses facial recognition to automatically put on funny props.
 
 **Props:**  
