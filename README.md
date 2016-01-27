@@ -18,7 +18,9 @@ Downloads a random Instagram photo and uses facial recognition to automatically 
 4. Node.js - https://nodejs.org/  
 
 **Note:**  
-In order to get this app to run, you'll need to get an Instagram Access Token and an API key for Microsoft Project Oxford: https://www.npmjs.com/package/project-oxford
+In order to get this app to run, you'll need to get an Instagram Access Token and an API key for Microsoft Project Oxford:  
+https://www.instagram.com/developer/authentication/  
+https://www.npmjs.com/package/project-oxford
 
 **Example:**  
 ![Before](http://i.imgur.com/nIGeu4q.png?1)   ![After](http://i.imgur.com/5zG9z54.png?1)
