@@ -33,4 +33,8 @@ node_modules
 # Optional REPL history
 .node_repl_history
 
+# Images
+.jpg
+.png
+
 .env
