@@ -3,11 +3,13 @@
   "version": "0.0.1",
   "description": "Just a little side project: Downloads a random Instagram photo and uses facial recognition to automatically put on funny props.",
   "main": "app.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/davidchl/winkcam.git"
+  },
   "scripts": {
     "start": "node app.js"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "async": "1.5.2",
     "canvas": "1.3.6",
@@ -16,7 +18,15 @@
     "pkgconfig": "^3.0.0",
     "project-oxford": "^1.1.0"
   },
+  "keywords": [
+    "instagram",
+    "photobooth",
+    "facial recognition",
+    "image augmentation"
+  ],
   "engines": {
     "node": "0.12.7"
-  }
+  },
+  "author": "David Lung",
+  "license": "MIT",
 }
